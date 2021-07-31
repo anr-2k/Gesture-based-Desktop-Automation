@@ -1,5 +1,3 @@
-# Hello, I'm Nikhil! 👋 
-
 # Gesture-based-Desktop-Automation
 
 As part of the SmartBridge externship my team was assigned a project "A Gesture based Tool for Sterile browsing of Radiology images using CNN and openCV"
