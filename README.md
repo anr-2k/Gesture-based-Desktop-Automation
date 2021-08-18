@@ -2,7 +2,7 @@
 
 As part of the SmartBridge externship my team was assigned a project "A Gesture based Tool for Sterile browsing of Radiology images using CNN and openCV"
 
-In this project we have used a Convolutional Neural Netowork, First the model is trained on the images of different hand gestures, such as a showing numbers with fingers as 0,1,2,3,4,5.
+In this project we have used a Convolutional Neural Network, First the model is trained on the images of different hand gestures, such as a showing numbers with fingers as 0,1,2,3,4,5.
 
 This model uses the integrated webcam to capture the video frame. The image of the gesture captured in the video frame is compared with the Pre-trained model and the gesture is identified.
 
